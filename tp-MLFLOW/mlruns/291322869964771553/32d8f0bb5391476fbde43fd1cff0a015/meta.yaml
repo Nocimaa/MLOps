@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/MLOps/tp2/mlruns/291322869964771553/32d8f0bb5391476fbde43fd1cff0a015/artifacts
+end_time: 1759770262003
+entry_point_name: ''
+experiment_id: '291322869964771553'
+lifecycle_stage: active
+run_id: 32d8f0bb5391476fbde43fd1cff0a015
+run_name: sincere-gnu-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759770256761
+status: 4
+tags: []
+user_id: ubuntu

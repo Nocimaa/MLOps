@@ -1,0 +1,11 @@
+artifact_location: file:///home/ubuntu/MLOps/tp2/mlruns/291322869964771553/models/m-3f3f6d0354c0437baf32b98ed8eedb20/artifacts
+creation_timestamp: 1759770256896
+experiment_id: '291322869964771553'
+last_updated_timestamp: 1759770256896
+lifecycle_stage: active
+model_id: m-3f3f6d0354c0437baf32b98ed8eedb20
+model_type: null
+name: insurance-model
+source_run_id: 32d8f0bb5391476fbde43fd1cff0a015
+status: 1
+status_message: null
